@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/BohdanBoriak/boilerplate-go-back/internal/domain"
-	"github.com/BohdanBoriak/boilerplate-go-back/internal/infra/database"
+	"github.com/OlivaDavid/boilerplate-go-back/internal/domain"
+	"github.com/OlivaDavid/boilerplate-go-back/internal/infra/database"
 	"log"
 )
 
